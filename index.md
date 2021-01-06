@@ -4,7 +4,7 @@
         <title>TOPConfigs</title>
       </head>
     <body style="background-color:tomato;size:150px">    
-        <img src="https://static.wikia.nocookie.net/cswikia/images/2/2a/Cs_logo.png/revision/latest?cb=20160716095455"/>
+        <img style="-width:300px" src="https://static.wikia.nocookie.net/cswikia/images/2/2a/Cs_logo.png/revision/latest?cb=20160716095455"/>
     <br>
     <br>
         <img style="-width:300px" src="https://www.gvme.org/pages/get_image_large.php?id=1999"/>
