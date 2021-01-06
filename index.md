@@ -1,6 +1,6 @@
 <html>
     <body style="background-color:tomato;size:150px">    
-        <img src="https://static.wikia.nocookie.net/cswikia/images/2/2a/Cs_logo.png/revision/latest?cb=20160716095455"/>
+        <img src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
     <br>
     <br>
         <img src="https://www.gvme.org/pages/get_image_large.php?id=1999"/>
