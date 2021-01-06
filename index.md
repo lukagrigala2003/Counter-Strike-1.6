@@ -19,8 +19,8 @@
     <br>
     <br>
     <b style="font-size:150%;color:red">Configs By 1nsurgentSTAR</b>
-        <h3>Aimbot Activated</h3>    
-        <h3>Wallhack Activated</h3>
+        <h3 style="font-size:100%;color:green">Aimbot Activated</h3>    
+        <h3 style="font-size:100%;color:green">Wallhack Activated</h3>
     <a target="blank" href="https://www.gamingcfg.com/game/cs">Saiti</a>
     <br>
     <br>
