@@ -6,10 +6,7 @@
       <body>
    <style>
 div {
-  background-image: url('https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+  background-image: url('https://cutewallpaper.org/21/black-1920x1080-wallpaper/Dark-Desktop-Backgrounds-1920x1080-,-Best-Background-Images-.jpg');
 }
 </style>
         <img style="width:900px;height:300px" src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
