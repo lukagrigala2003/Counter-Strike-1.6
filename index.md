@@ -5,10 +5,7 @@
       </head>
       <body>
    <style>
-div {
-  background-image: url('https://cutewallpaper.org/21/black-1920x1080-wallpaper/Dark-Desktop-Backgrounds-1920x1080-,-Best-Background-Images-.jpg');
-}
-</style>
+   <div style="background-image: url('https://cutewallpaper.org/21/black-1920x1080-wallpaper/Dark-Desktop-Backgrounds-1920x1080-,-Best-Background-Images-.jpg');">
         <img style="width:900px;height:300px" src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
     <br>
     <br>
