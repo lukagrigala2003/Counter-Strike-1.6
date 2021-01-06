@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html>
       <head>
         <title>TOPConfigs</title>
       </head>
-    <body style="background-color:tomato;size:150px">    
+    <body style="background" src="https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>   
         <img style="width:900px;height:300px" src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
     <br>
     <br>
