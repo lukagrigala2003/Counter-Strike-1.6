@@ -3,11 +3,11 @@
       <head>
         <title>TOPConfigs</title>
       </head>
-    <body style="background-color:tomato;size:150px">
+    <body style="background-color:tomato;size:150px">    
         <img src="https://static.wikia.nocookie.net/cswikia/images/2/2a/Cs_logo.png/revision/latest?cb=20160716095455"
     <br>
     <br>
-        <img src="72975551.png"
+        <img src="https://www.gvme.org/pages/get_image_large.php?id=1999"
     <br>
     <br>
     <b style="font-size:150%;color:red">Configs By 1nsurgentSTAR</b>
@@ -19,7 +19,7 @@
     <br>
     <br>
     <a target="blank"
-    <a href="https://bit.ly/2Xcm5PV">Animatosfr</a    
+    <a href="https://bit.ly/2Xcm5PV">Animator</a    
     <br>
     <br>
     <br>
