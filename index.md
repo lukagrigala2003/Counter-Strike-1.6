@@ -7,6 +7,9 @@
    <style>
 div {
   background-image: url('https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 </style>
         <img style="width:900px;height:300px" src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
