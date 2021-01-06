@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
       <head>
         <title>TOPConfigs</title>
@@ -12,26 +12,45 @@
    background-size:1920px 1080px;
      }  
    </style>
-        <img style="width:900px;height:300px" src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
+   <div>
+        <img style="       
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width:900px;
+        height:300px"
+        src="https://counter-strike-download.procs.lt/wp-content/uploads/2016/01/Counter-Strike_Logo.png"/>
+    </div>
     <br>
     <br>
-        <img style="width:900px;height:300px" src="https://www.gvme.org/pages/get_image_large.php?id=1999"/>
+    <div>
+        <img style="  
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width:900px;
+        height:300px" 
+        src="https://www.gvme.org/pages/get_image_large.php?id=1999"/>
+    </div>
+    <div style="text-align: center;">
+    <br>
+    <br>        
+    <br>    
+         <h1 style="font-family:verdana;font-size:150%;color:red;text-align:center;">Best Configs</h1>   
+         <h3 style="font-size:100%;color:green;text-align:center">Aimbot Activated</h3>    
+         <h3 style="font-size:100%;color:green;text-align:center">Wallhack Activated</h3>
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://www.gamingcfg.com/game/cs">Saiti</a> 
     <br>
     <br>
-    <b style="font-size:150%;color:red">Configs By 1nsurgentSTAR</b>
-        <h3 style="font-size:100%;color:green">Aimbot Activated</h3>    
-        <h3 style="font-size:100%;color:green">Wallhack Activated</h3>
-    <a target="blank" href="https://www.gamingcfg.com/game/cs">Saiti</a>
+    <br>
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://bit.ly/2Xcm5PV">Animator</a>
     <br>
     <br>
     <br>
-    <a target="blank" href="https://bit.ly/2Xcm5PV">Animator</a>    
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://bit.ly/38eoTlS">1nsurgentSTAR</a>
     <br>
     <br>
     <br>
-    <a target="blank" href="https://bit.ly/38eoTlS">1nsurgentSTAR</a>
-    <br>
-    <br>
-    <br>          
+    </div>            
     </body>
 </html>
