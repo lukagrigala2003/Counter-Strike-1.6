@@ -20,7 +20,7 @@
     <br>
     <br>
     <a target="blank"
-    <a href="https://bit.ly/2Xcm5PV">Animator</a    
+    <a href="https://bit.ly/2Xcm5PV">Animatosfr</a    
     <br>
     <br>
     <br>
