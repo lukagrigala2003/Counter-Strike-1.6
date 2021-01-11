@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
       <head>
         <title>TOPConfigs</title>
@@ -37,18 +37,23 @@
     <br>        
     <br>    
          <h1 style="font-family:verdana;font-size:150%;color:red;text-align:center;">Best Configs</h1>   
-         <h3 style="font-size:100%;color:green;text-align:center">Aimbot Activated</h3>    
+         <h3 style="font-size:100%;color:green;text-align:center">Aimbot Activated</h3>
+
+         <hr>
+             
          <h3 style="font-size:100%;color:green;text-align:center">Wallhack Activated</h3>
-    <br> 
-    <a target="blank" style="font-family:verdana;color:red;font-size:160%;" href="https://www.gamingcfg.com/game/cs">Saiti</a> 
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://www.gamingcfg.com/game/cs">Saiti</a> 
     <br>
     <br>
     <br>
-    <a target="blank" style="font-family:verdana;color:red;font-size:160%;" href="https://bit.ly/2Xcm5PV">Animator</a>
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://bit.ly/2Xcm5PV">Animator</a>
     <br>
     <br>
     <br>
-    <a target="blank" style="font-family:verdana;color:red;font-size:160%;" href="https://bit.ly/398xwhe">1nsurgentSTAR</a>
+    <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://bit.ly/38eoTlS">1nsurgentSTAR</a>
+    <br>
+    <br>
+    <a target="blank" style="font-family:tahoma;color:black;font-size:180%"; href="https://shorturl.at/lCR28">MAGISK</a>
     <br>
     <br>
     <br>
