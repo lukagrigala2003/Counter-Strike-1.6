@@ -49,12 +49,6 @@
     <br>
     <br>
     <a target="blank" style="font-family:verdana;color:red;font-size:160%"; href="https://bit.ly/38eoTlS">1nsurgentSTAR</a>
-    <br>
-    <br>
-    <a target="blank" style="font-family:tahoma;color:black;font-size:180%"; href="https://shorturl.at/lCR28">MAGISK</a>
-    //<br>
-    <br>
-    <br>
     </div>            
     </body>
 </html>
