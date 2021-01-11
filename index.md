@@ -52,7 +52,7 @@
     <br>
     <br>
     <a target="blank" style="font-family:tahoma;color:black;font-size:180%"; href="https://shorturl.at/lCR28">MAGISK</a>
-    <br>
+    //<br>
     <br>
     <br>
     </div>            
