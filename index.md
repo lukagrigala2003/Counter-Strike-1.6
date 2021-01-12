@@ -1,4 +1,3 @@
-
 <html>
       <head>
         <title>TOPConfigs</title>
@@ -41,8 +40,15 @@
     <div style="text-align: center;">
     <br>
     <br>        
-    <br>    
-         <h1 style="font-family:verdana;font-size:150%;color:red;text-align:center;">Best Configs</h1>   
+    <br>
+    <div>    
+         <h1 style="font-family:verdana;
+         font-size:150%;
+         color:red;
+         text-align:center;
+         border-bottom: 0"
+         >Best Configs</h1>
+    </div>   
          <h3 style="font-size:100%;color:green;text-align:center">Aimbot Activated</h3>            
          <h3 style="font-size:100%;color:green;text-align:center">Wallhack Activated</h3>
     <a target="blank" style="font-family:verdana;color:red;font-size:160%" href="https://www.gamingcfg.com/game/cs">Saiti</a> 
