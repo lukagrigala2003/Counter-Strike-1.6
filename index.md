@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
       <head>
         <title>TOPConfigs</title>
@@ -12,6 +12,12 @@
    background-size:1920px 1080px;
      }  
    </style>
+   <style>
+    body {
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+  </style>
    <div>
         <img style="       
         margin-left: auto;
